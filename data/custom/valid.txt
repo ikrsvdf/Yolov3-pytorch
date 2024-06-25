@@ -1,0 +1,3 @@
+data/custom/images/COCO_train2014_000000006520.jpg
+data/custom/images/COCO_train2014_000000007615.jpg
+data/custom/images/train.jpg
